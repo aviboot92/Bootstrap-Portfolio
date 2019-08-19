@@ -6,3 +6,6 @@ body{
     /* width: 60%; */
     height: 15vw;
 }
+#portfolioImg img{
+    height: 15vw;
+}
