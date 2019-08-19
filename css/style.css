@@ -1,11 +1,17 @@
-body{
+body {
     /* background: black; */
 }
-#aboutMe img{
+
+#aboutMe {
+    width: 70%;
+}
+
+#aboutMe img {
     /* object-fit: contain; */
     /* width: 60%; */
     height: 15vw;
 }
-#portfolioImg img{
+
+#portfolioImg img {
     height: 15vw;
 }
