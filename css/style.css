@@ -1,5 +1,7 @@
 body {
-    /* background: black; */
+    background-color: #e2dddd;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica-Neue', Helvetica, sans-serif;
 }
 
 #aboutMe {
@@ -14,4 +16,25 @@ body {
 
 #portfolioImg img {
     height: 15vw;
+}
+
+.jumbotron h1 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: white !important;
+}
+
+.card-footer {
+    color: aliceblue !important;
+    background-color: #666666;
+    border-top: 2px solid #4aaaa5;
 }
