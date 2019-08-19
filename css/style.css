@@ -4,10 +4,6 @@ body {
     font-family: 'Arial', 'Helvetica-Neue', Helvetica, sans-serif;
 }
 
-#aboutMe {
-    width: 70%;
-}
-
 #aboutMe img {
     /* object-fit: contain; */
     /* width: 60%; */
