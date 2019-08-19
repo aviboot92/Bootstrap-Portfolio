@@ -1,0 +1,8 @@
+body{
+    /* background: black; */
+}
+#aboutMe img{
+    /* object-fit: contain; */
+    /* width: 60%; */
+    height: 15vw;
+}
