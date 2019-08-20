@@ -10,8 +10,15 @@ body {
     height: 15vw;
 }
 
-#portfolioImg img {
-    height: 15vw;
+.crop{
+    height: 300px;
+    /* width: 400px; */
+    overflow: hidden;
+}
+
+.crop img{
+    height: 100%;
+    width: auto;
 }
 
 .jumbotron h1 {
